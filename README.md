@@ -1,4 +1,4 @@
-# Summary: Presentation_20220726.pdf 
+# Summary at Presentation_20220726.pdf 
 
 # Overview
 This repository is for storing the Python 3 code for my thesis. I have developed the forecast model for all-cause mortality, leveraging cause-of-death data through neural networks. For the model performance (forecast accuracy and computing time) assessment, this code file generates multiple models based on the Lee-Carter model and the convolutional neural network (CNN)-based model. 
